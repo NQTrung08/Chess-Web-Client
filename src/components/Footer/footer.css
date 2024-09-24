@@ -1,0 +1,54 @@
+.footer {
+    padding: 70px;
+    padding-bottom: 30px;
+    background: #333;
+    position: relative;
+    bottom: 100px;
+    top: 100px;
+
+}
+
+.footer .logo img{
+    width: 50%;
+    margin-bottom: 1rem;
+} 
+
+.logo p {
+    color: #fff;
+}
+
+.list-items{
+    color: var(--text-white) !important;
+    background-color: #333 !important;
+}
+.social__links span a{
+    text-decoration: none;
+    color: var(--heading-color);
+    font-size: 1.2rem;
+}
+
+.footer__links-title {
+    color: var(--text-white);
+    margin-bottom: 1rem;
+}
+
+.footer__quick-links a{
+    text-decoration: none;
+    color: var(--text-white);
+    font-size: 1.2rem;
+
+}
+
+.icon{
+    color: var(--secondary-color);
+    font-size: 1.2rem;
+}
+
+.copyight {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+.listgroup-color{
+    background-color: #333;
+}
